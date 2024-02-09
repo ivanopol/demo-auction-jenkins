@@ -11,5 +11,6 @@
       name:
         - git
         - make
+        - gettext-base
       state: present
       update_cache: yes
